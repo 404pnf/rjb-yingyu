@@ -1,0 +1,23 @@
+---
+title: ! '问 zucchini是什么蔬菜啊 '
+---
+
+<p>zucchini是什么蔬菜啊？</p>
+
+<p>Zucchini the size of a child</p>
+
+<dl>
+<dt><img src="http://www.boingboing.net/200706291113.jpg" alt="" /></dt>
+<dt>via <a href="http://www.boingboing.net/2007/06/29/zucchini_the_size_of.html">bb</a></dt>
+<dd>
+<p>marrow squash plant whose fruit are eaten when small</p>
+</dd>
+
+<dd>small cucumber-shaped vegetable marrow; typically dark green
+wordnet.princeton.edu/perl/webwn</dd>
+
+<dd>
+<p>Zucchini (US and Australian English) or courgette (New Zealand and British English) is a vegetable. Its Latin name is Cucurbita pepo.
+en.wikipedia.org/wiki/Zucchini</p>
+</dd>
+</dl>

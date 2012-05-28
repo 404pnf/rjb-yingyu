@@ -1,0 +1,24 @@
+---
+title: ! 'simmer 在这里怎么翻译 '
+---
+
+<blockquote>
+  <p>I got an email from Fred von Lohmann of the Electronic Frontier Foundation yesterday. It began, &#8220;Half the companies you blog about have copyright or privacy legal issues simmering just under the surface. Since most of them are thinly capitalized, when they get into trouble, they&#8217;re likely to call EFF for legal advice. Several already have.&#8221;</p>
+  
+  <p><a href="http://www.webware.com/8301-1_109-9782365-2.html">http://www.webware.com/8301-1_109-9782365-2.htm...</a></p>
+</blockquote>
+
+<p>这里的simmering我翻译不出来。我理解是指要出现还没出现的那种潜在的危险。</p>
+
+<p>谁来说说？</p>
+
+<p>simmer</p>
+
+<blockquote>
+  <p>temperature just below the boiling point; &#8220;the stew remained at a simmer for hours&#8221;
+  boil slowly at low temperature; &#8220;simmer the sauce&#8221;; &#8220;simmering water&#8221;
+  wordnet.princeton.edu/perl/webwn</p>
+  
+  <p>Simmering is a cooking technique in which foods are cooked in hot liquids kept at or just barely below the boiling point of water (at average sea level air pressure), 100 °C (212 °F). &#8230;
+  en.wikipedia.org/wiki/Simmer</p>
+</blockquote>

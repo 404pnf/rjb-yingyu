@@ -1,0 +1,17 @@
+---
+title: 假书 不 攒的书都算不上
+---
+
+<p>假书？不，攒的书都算不上</p>
+
+<p>By John L (LONDON, UK) - See all my reviews
+Ken Pizzini has not written a book about sed; rather, this is just the printed version of the manual/info page that comes with GNU sed, together with some padding about the free documentation licence and the GNU project.</p>
+
+<p>Oh yes, and 53 (fifty-three) completely blank pages.</p>
+
+<p>And look at the photo of the front cover. Spot the missing word: &#8220;Sed &#8212; A Stream &#8230;&#8221;</p>
+
+<p>Don&#8217;t buy this. 
+<a href="http://www.amazon.com/Sed-Stream-Editor-Ken-Pizzini/dp/0595100430/ref=pd_bbs_6/102-4073332-7886520?ie=UTF8&amp;s=books&amp;qid=1190334185&amp;sr=8-6">http://www.amazon.com/Sed-Stream-Editor-Ken-Piz...</a></p>
+
+<p>其实把文档直接印成书是GFDL允许的也是鼓励的。我有时也希望有一本能随时翻看查阅的。但不能搞这种质量差还以“骗钱”而不是赚钱为目的的。</p>

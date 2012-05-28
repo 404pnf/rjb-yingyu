@@ -1,0 +1,10 @@
+---
+title: nice collage  collage how to
+---
+
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/gaBJB3VDWvg"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/gaBJB3VDWvg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+
+<p><a href="http://www.youtube.com/watch?v=gaBJB3VDWvg">link</a></p>
+
+<p>his name is Judith Supine
+here is <a href="http://flickr.com/photos/tags/judithsupine/clusters/">his works</a> on flickr</p>

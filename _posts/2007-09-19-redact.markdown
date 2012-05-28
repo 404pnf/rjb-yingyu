@@ -1,0 +1,19 @@
+---
+title: redact
+---
+
+<blockquote>
+  <p>Novell has filed its trial brief. It&#8217;s heavily redacted, which is always frustrating, but it&#8217;s still full of interesting tidbits.
+  <a href="http://www.groklaw.net/article.php?story=20070914140030234">http://www.groklaw.net/article.php?story=200709...</a></p>
+</blockquote>
+
+<p>redact</p>
+
+<ul>
+<li>frame: formulate in a particular style or language; &#8220;I wouldn&#8217;t put it that way&#8221;; &#8220;She cast her request in very polite language&#8221;</li>
+<li>someone who puts text into appropriate form for publication</li>
+<li>edit: prepare for publication or presentation by correcting, revising, or adapting; &#8220;Edit a book on lexical semantics&#8221;; &#8220;she edited the letters of the politician so as to omit the most personal passages&#8221;
+wordnet.princeton.edu/perl/webwn</li>
+</ul>
+
+<p>中文翻译？</p>
