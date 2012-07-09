@@ -1,9 +1,12 @@
 ---
+layout: post
 title: John Kerry John Lennon
 ---
 
-<p><img src="http://media.urbandictionary.com/image/page/johnkerry-4465.jpg" alt="" />
-really?!</p>
+![](http://media.urbandictionary.com/image/page/johnkerry-4465.jpg)
 
-<p><img src="http://media.urbandictionary.com/image/page/johnkerry-4921.jpg" alt="" />
-John Kerry &amp; John Lennon</p>
+really?!
+
+![](http://media.urbandictionary.com/image/page/johnkerry-4921.jpg)
+
+John Kerry & John Lennon

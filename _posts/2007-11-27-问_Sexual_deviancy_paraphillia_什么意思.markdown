@@ -1,13 +1,12 @@
 ---
-title: 问 Sexual deviancy  paraphillia 什么意思
+layout: post
+title: 问 Sexual deviancy paraphillia 什么意思
 ---
 
-<p>Sexual deviancy ; paraphillia</p>
+Sexual deviancy ; paraphillia
 
-<p>我竟然在wordnet中没有查到这两个词！！</p>
+我竟然在wordnet中没有查到这两个词！！
 
-<p>The noun epilepsy has 1 sense (no senses from tagged texts)</p>
+The noun epilepsy has 1 sense (no senses from tagged texts)
 
-<ol>
-<li>epilepsy &#8212; (a disorder of the central nervous system characterized by loss of consciousness and convulsions)</li>
-</ol>
+*epilepsy — (a disorder of the central nervous system characterized by loss of consciousness and convulsions)

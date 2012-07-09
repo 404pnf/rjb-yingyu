@@ -1,15 +1,18 @@
 ---
+layout: post
 title: new york in 1930s and 1990s
 ---
 
-<p><img src="http://www.wilsontai.com/racingmix/nov05/racingmix_fifth_avenue38.jpg" alt="" /></p>
+![](http://www.wilsontai.com/racingmix/nov05/racingmix_fifth_avenue38.jpg)
 
-<p>1930s New York</p>
+1930s New York
 
-<p><img src="http://www.wilsontai.com/racingmix/nov05/racingmix_fifth_avenue97.jpg" alt="" /></p>
+![](http://www.wilsontai.com/racingmix/nov05/racingmix_fifth_avenue97.jpg)
 
-<p>1990s New York</p>
+1990s New York
 
-<p>via <a href="http://www.racingmix.com/2005/12/2005-year-of-rooster.html">http://www.racingmix.com/2005/12/2005-year-of-r...</a></p>
+via 
 
-<p>文章作者认为30年代的人们更好看，至少从着装上。你们怎么看？：）</p>
+[http://www.racingmix.com/2005/12/2005-year-of-r...](http://www.racingmix.com/2005/12/2005-year-of-rooster.html)
+
+文章作者认为30年代的人们更好看，至少从着装上。你们怎么看？：）

@@ -1,29 +1,40 @@
 ---
+layout: post
 title: carocoal 这种画法是叫素描还是叫炭画什么的呀
 ---
 
-<p>这种画法是叫素描还是叫炭画什么的呀</p>
+这种画法是叫素描还是叫炭画什么的呀
 
-<p>Figure 9. Uluru at sunset
-<img src="http://www.ibm.com/developerworks/library/l-graf/uluru.jpg" alt="" /></p>
+Figure 9. Uluru at sunset
 
-<p>Figure 10. Uluru at sunset after a charcoal effect is applied
-<img src="http://www.ibm.com/developerworks/library/l-graf/charcoal.jpg" alt="" /></p>
+![](http://www.ibm.com/developerworks/library/l-graf/uluru.jpg)
 
-<p><a href="http://www.ibm.com/developerworks/library/l-graf/?ca=dnt-428">source</a></p>
+Figure 10. Uluru at sunset after a charcoal effect is applied
 
-<p>define: carocoal</p>
+![](http://www.ibm.com/developerworks/library/l-graf/charcoal.jpg)
 
-<ul>
-<li>a carbonaceous material obtained by heating wood or other organic matter in the absence of air</li>
-<li>a stick of black carbon material used for drawing</li>
-<li>a very dark grey color</li>
-<li><p>draw, trace, or represent with charcoal
-wordnet.princeton.edu/perl/webwn</p></li>
-<li><p>Charcoal is the blackish residue consisting of impure carbon obtained byremoving water and other volatile constituents of animal and vegetable substances.It is usually produced by heating wood in the absence of oxygen (see char), but sugarcharcoal, bone charcoal (which contains a great amount of calcium phosphate),and others can be produced as well.The light, black, porous material is 85% to 98% carbon, and resembles coal.
-en.wikipedia.org/wiki/Charcoal</p></li>
-<li><p>Charcoal was the default menu font in MacOS 8 &amp; 9, replacing Chicago. In Mac OS X, it was replaced with Lucida Grande as the menu typeface.
-en.wikipedia.org/wiki/Charcoal_(font)</p></li>
-<li><p>A drawing medium (pencil or crayon) made from a porous carbonaceous material.
-myrlejohnson.tripod.com/id12.html</p></li>
-</ul>
+[source](http://www.ibm.com/developerworks/library/l-graf/?ca=dnt-428)
+
+define: carocoal
+
+*a carbonaceous material obtained by heating wood or other organic matter in the absence of air
+
+*a stick of black carbon material used for drawing
+
+*a very dark grey color
+
+*draw, trace, or represent with charcoal
+
+wordnet.princeton.edu/perl/webwn
+
+*Charcoal is the blackish residue consisting of impure carbon obtained byremoving water and other volatile constituents of animal and vegetable substances.It is usually produced by heating wood in the absence of oxygen (see char), but sugarcharcoal, bone charcoal (which contains a great amount of calcium phosphate),and others can be produced as well.The light, black, porous material is 85% to 98% carbon, and resembles coal.
+
+en.wikipedia.org/wiki/Charcoal
+
+*Charcoal was the default menu font in MacOS 8 & 9, replacing Chicago. In Mac OS X, it was replaced with Lucida Grande as the menu typeface.
+
+en.wikipedia.org/wiki/Charcoal_(font)
+
+*A drawing medium (pencil or crayon) made from a porous carbonaceous material.
+
+myrlejohnson.tripod.com/id12.html

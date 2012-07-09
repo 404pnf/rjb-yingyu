@@ -1,33 +1,42 @@
 ---
-title: ! 'don’t tell nobody anybody 有什么区别 '
+layout: post
+title: don’t tell nobody anybody 有什么区别
 ---
 
-<p>in a email to lvcha, i wrote:</p>
+in a email to lvcha, i wrote:
 
-<blockquote>
-  <p>don&#8217;t tell nobody.</p>
-</blockquote>
+>don’t tell nobody.
 
-<p>lvcha wrote back</p>
+lvcha wrote back
 
-<blockquote>
-  <blockquote>
-    <p>nobody?</p>
+>>nobody?
+
     
-    <p>means?</p>
+
     
-    <p>anybody can known.</p>
-  </blockquote>
-</blockquote>
 
-<p>here&#8217;s my response</p>
+means?
 
-<p>我知道你可能有这个疑惑所以专门那么写的
+    
+
+    
+
+anybody can known.
+
+here’s my response
+
+我知道你可能有这个疑惑所以专门那么写的
+
 正确的语法是
-don&#8217;t tell anybody
-但是，在日常口语中为了更口语化（其实
-是受早期黑人英语不标准的影响），也有
-人愿意打趣地说
-don&#8217;t tell nobody</p>
 
-<p>这是我的解释。不知道对不对啊？</p>
+don’t tell anybody
+
+但是，在日常口语中为了更口语化（其实
+
+是受早期黑人英语不标准的影响），也有
+
+人愿意打趣地说
+
+don’t tell nobody
+
+这是我的解释。不知道对不对啊？

@@ -1,9 +1,12 @@
 ---
-title: ! 'emo kitty '
+layout: post
+title: emo kitty
 ---
 
-<p>emo kitty <img src='http://www.rijiben.org/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+emo kitty 
 
-<p><img src="http://www.encyclopediadramatica.com/images/f/f0/Hay-be-nice-emokitteh-is-sensitive.jpg" alt="" /></p>
+![:)](http://www.rijiben.org/smilies/icon_smile.gif)
 
-<p><a href="http://www.encyclopediadramatica.com/Emo">http://www.encyclopediadramatica.com/Emo</a></p>
+![](http://www.encyclopediadramatica.com/images/f/f0/Hay-be-nice-emokitteh-is-sensitive.jpg)
+
+[http://www.encyclopediadramatica.com/Emo](http://www.encyclopediadramatica.com/Emo)

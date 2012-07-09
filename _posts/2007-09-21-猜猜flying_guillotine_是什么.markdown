@@ -1,10 +1,12 @@
 ---
-title: ! '猜猜flying guillotine 是什么 '
+layout: post
+title: 猜猜flying guillotine 是什么
 ---
 
-<p>猜猜flying guillotine 是什么 ：）</p>
+猜猜flying guillotine 是什么 ：）
 
-<p>Du bi quan wang da po xue di zi (1975)
-<a href="http://imdb.com/title/tt0072913/">http://imdb.com/title/tt0072913/</a></p>
+Du bi quan wang da po xue di zi (1975)
 
-<p>知道答案了么？</p>
+[http://imdb.com/title/tt0072913/](http://imdb.com/title/tt0072913/)
+
+知道答案了么？

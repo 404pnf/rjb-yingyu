@@ -1,28 +1,32 @@
 ---
-title: ! 'kink 翻译成瑕疵 '
+layout: post
+title: kink 翻译成瑕疵
 ---
 
-<blockquote>
-  <p>Overall, I hope that XEmacs, GNU Emacs and their various distributors work out the kinks so that such a simple matter as cut and paste is not a matter of medieval alchemical incantations. Until then, I hope my notes are of help to someone else.
-  <a href="http://www.oreillynet.com/lpt/wlg/6162">http://www.oreillynet.com/lpt/wlg/6162</a></p>
-</blockquote>
+>Overall, I hope that XEmacs, GNU Emacs and their various distributors work out the kinks so that such a simple matter as cut and paste is not a matter of medieval alchemical incantations. Until then, I hope my notes are of help to someone else.
 
-<p>想不出如何翻译和选那个意思。应该是5，翻译成瑕疵？
-define: kink</p>
+  
 
-<p>The noun kink has 5 senses (no senses from tagged texts)</p>
+[http://www.oreillynet.com/lpt/wlg/6162](http://www.oreillynet.com/lpt/wlg/6162)
 
-<ol>
-<li>crick, kink, rick, wrick &#8212; (a painful muscle spasm especially in the neck or back (<code>rick' and</code>wrick&#8217; are British))</li>
-<li>kink, twist, twirl &#8212; (a sharp bend in a line produced when a line having a loop is pulled tight)</li>
-<li>kink &#8212; (a person with unusual sexual tastes)</li>
-<li>kink &#8212; (an eccentric idea)</li>
-<li>kink &#8212; (a difficulty or flaw in a plan or operation; &#8220;there are still a few kinks to iron out&#8221;)</li>
-</ol>
+想不出如何翻译和选那个意思。应该是5，翻译成瑕疵？
 
-<p>The verb kink has 2 senses (no senses from tagged texts)</p>
+define: kink
 
-<ol>
-<li>crimp, crape, frizzle, frizz, kink up, kink &#8212; (curl tightly; &#8220;crimp hair&#8221;)</li>
-<li>curl, curve, kink &#8212; (form a curl, curve, or kink; &#8220;the cigar smoke curled up at the ceiling&#8221;)</li>
-</ol>
+The noun kink has 5 senses (no senses from tagged texts)
+
+*crick, kink, rick, wrick — (a painful muscle spasm especially in the neck or back (
+
+rick' andwrick’ are British))
+
+*kink, twist, twirl — (a sharp bend in a line produced when a line having a loop is pulled tight)
+
+*kink — (a person with unusual sexual tastes)
+
+*kink — (an eccentric idea)
+
+*kink — (a difficulty or flaw in a plan or operation; “there are still a few kinks to iron out”)The verb kink has 2 senses (no senses from tagged texts)
+
+*crimp, crape, frizzle, frizz, kink up, kink — (curl tightly; “crimp hair”)
+
+*curl, curve, kink — (form a curl, curve, or kink; “the cigar smoke curled up at the ceiling”)

@@ -1,18 +1,20 @@
 ---
-title: ! 'comfart is it more comfartable '
+layout: post
+title: comfart is it more comfartable
 ---
 
-<p>comfart</p>
+comfart
 
-<p>first-class is more comfartable, it
-s comfart..</p>
+first-class is more comfartable, it
 
-<p>via yeastradio</p>
+s comfart..
 
-<p>:)</p>
+via yeastradio
 
-<p>wait a sekskunt</p>
+:)
 
-<p>just a sekskunt, whadayamean?</p>
+wait a sekskunt
 
-<p>of course, he might mean cumfartable/ rather than comfartable, which is more &#8220;moral degrading&#8221;, but more fun.</p>
+just a sekskunt, whadayamean?
+
+of course, he might mean cumfartable/ rather than comfartable, which is more “moral degrading”, but more fun.

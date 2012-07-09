@@ -1,19 +1,22 @@
 ---
-title: yammer  还有对marketing人员精到的描述
+layout: post
+title: yammer 还有对marketing人员精到的描述
 ---
 
-<p>[..]tells us that they just laid off 20% of their staff: mostly useless marketing-tards who just take up space and yammer on about things that are bleeding obvious to chimpanzees so that they can try to pass off their college years of drinking and not going to class as legitimate educations. <a href="http://feeds.feedburner.com/~r/uncov/~3/134945135/meevee-it-s-like-tivo-except-useless">link</a></p>
+[..]tells us that they just laid off 20% of their staff: mostly useless marketing-tards who just take up space and yammer on about things that are bleeding obvious to chimpanzees so that they can try to pass off their college years of drinking and not going to class as legitimate educations. 
 
-<p>到位。描写的到位。</p>
+[link](http://feeds.feedburner.com/~r/uncov/~3/134945135/meevee-it-s-like-tivo-except-useless)
 
-<p>define: yammer</p>
+到位。描写的到位。
 
-<ul>
-<li><ol>
-<li>talk quickly or in an agitated manner. 2. whinge, complain vociferously.
-www.artistwd.com/joyzine/australia/strine/xyz.php</li>
-</ol></li>
-<li><p>howl: cry loudly, as of animals; &#8220;The coyotes were howling in the desert&#8221;</p></li>
-<li>whine: complain whiningly
-wordnet.princeton.edu/perl/webwn</li>
-</ul>
+define: yammer
+
+**talk quickly or in an agitated manner. 2. whinge, complain vociferously.
+
+www.artistwd.com/joyzine/australia/strine/xyz.php
+
+*howl: cry loudly, as of animals; “The coyotes were howling in the desert”
+
+*whine: complain whiningly
+
+wordnet.princeton.edu/perl/webwn

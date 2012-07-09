@@ -1,15 +1,18 @@
 ---
+layout: post
 title: extol
 ---
 
-<p>extol</p>
+extol
 
-<blockquote>
-  <p>Imagethief is all for extolling that which needs to be extolled, although he also believes that almost anything, including the rise of China, can be made fun of.
-  <a href="http://news.imagethief.com/blogs/china/archive/2007/09/02/why-patriotism-wont-save-the-chinese-film-industry.aspx">http://news.imagethief.com/blogs/china/archive/...</a></p>
-</blockquote>
+>Imagethief is all for extolling that which needs to be extolled, although he also believes that almost anything, including the rise of China, can be made fun of.
 
-<p>laud: praise, glorify, or honor; &#8220;extol the virtues of one&#8217;s children&#8221;; &#8220;glorify one&#8217;s spouse&#8217;s cooking&#8221;
-wordnet.princeton.edu/perl/webwn</p>
+  
 
-<p>怎么翻译好。拔高？</p>
+[http://news.imagethief.com/blogs/china/archive/...](http://news.imagethief.com/blogs/china/archive/2007/09/02/why-patriotism-wont-save-the-chinese-film-industry.aspx)
+
+laud: praise, glorify, or honor; “extol the virtues of one’s children”; “glorify one’s spouse’s cooking”
+
+wordnet.princeton.edu/perl/webwn
+
+怎么翻译好。拔高？

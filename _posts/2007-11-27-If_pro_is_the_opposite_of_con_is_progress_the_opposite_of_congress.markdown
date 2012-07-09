@@ -1,9 +1,10 @@
 ---
-title: ! 'If pro is the opposite of con is progress the opposite of congress '
+layout: post
+title: If pro is the opposite of con is progress the opposite of congress
 ---
 
-<blockquote>
-  <p>If pro is the opposite of con, is progress the opposite of congress?</p>
-</blockquote>
+>If pro is the opposite of con, is progress the opposite of congress?
 
-<p>haha <img src='http://www.rijiben.org/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+haha 
+
+![;)](http://www.rijiben.org/smilies/icon_wink.gif)

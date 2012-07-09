@@ -1,42 +1,42 @@
 ---
-title: ! '对中国白领的一个很不错的描述 '
+layout: post
+title: 对中国白领的一个很不错的描述
 ---
 
-<blockquote>
-  <p>Somewhere in the middle of this spectrum are the individuals that I conduct day-to-day communication with, usually consisting of white collar Chinese employees in large multinational companies who have graduated from some of the top universities in China and speak a smattering of English and who, as a result, hold the mistaken belief that they are a superior class far above other Chinese. These are some of the most arrogant, self-important yet ironicallly ignorant and unprofessional individuals that I&#8217;ve ever had the misfortune to deal with.</p>
-</blockquote>
+>Somewhere in the middle of this spectrum are the individuals that I conduct day-to-day communication with, usually consisting of white collar Chinese employees in large multinational companies who have graduated from some of the top universities in China and speak a smattering of English and who, as a result, hold the mistaken belief that they are a superior class far above other Chinese. These are some of the most arrogant, self-important yet ironicallly ignorant and unprofessional individuals that I’ve ever had the misfortune to deal with.
 
-<p>多好的文字啊。：）
-怎么这段当时也忘了留存原文url了。这几篇都是前一段时间，可能很早收集的。谁知道原文url请告诉我我加上。</p>
+多好的文字啊。：）
 
-<p>smattering
-<a href="http://www.google.com/search?q=define%3Asmattering">http://www.google.com/search?q=define%3Asmatter...</a></p>
+怎么这段当时也忘了留存原文url了。这几篇都是前一段时间，可能很早收集的。谁知道原文url请告诉我我加上。
 
-<ul>
-<li>handful: a small number or amount; &#8220;only a handful of responses were received&#8221;</li>
-<li>a slight or superficial understanding of a subject
-wordnet.princeton.edu/perl/webwn</li>
-</ul>
+smattering
 
-<p>also in this article</p>
+[http://www.google.com/search?q=define%3Asmatter...](http://www.google.com/search?q=define%3Asmattering)
 
-<p>retentive
-<a href="http://www.google.com/search?q=define%3Aretentive">http://www.google.com/search?q=define%3Aretenti...</a></p>
+*handful: a small number or amount; “only a handful of responses were received”
 
-<ul>
-<li>good at remembering; &#8220;a retentive mind&#8221;; &#8220;tenacious memory&#8221;</li>
-<li>having the capacity to retain something</li>
-<li>having the power, capacity, or quality of retaining water; &#8220;soils retentive of moisture&#8221;
-wordnet.princeton.edu/perl/webwn</li>
-</ul>
+*a slight or superficial understanding of a subject
 
-<p>maestro</p>
+wordnet.princeton.edu/perl/webwnalso in this article
 
-<p><a href="http://www.google.com/search?q=define%3Amaestro">http://www.google.com/search?q=define%3Amaestro</a></p>
+retentive
 
-<ul>
-<li><p>Italian for &#8220;master.&#8221; a title of courtesy, given, especially in Italy, to conductors, composers and directors.
-www.operapacifica.org/pg_oracle.htm</p></li>
-<li><p>an artist of consummate skill; &#8220;a master of the violin&#8221;; &#8220;one of the old masters&#8221;
-wordnet.princeton.edu/perl/webwn</p></li>
-</ul>
+[http://www.google.com/search?q=define%3Aretenti...](http://www.google.com/search?q=define%3Aretentive)
+
+*good at remembering; “a retentive mind”; “tenacious memory”
+
+*having the capacity to retain something
+
+*having the power, capacity, or quality of retaining water; “soils retentive of moisture”
+
+wordnet.princeton.edu/perl/webwnmaestro
+
+[http://www.google.com/search?q=define%3Amaestro](http://www.google.com/search?q=define%3Amaestro)
+
+*Italian for “master.” a title of courtesy, given, especially in Italy, to conductors, composers and directors.
+
+www.operapacifica.org/pg_oracle.htm
+
+*an artist of consummate skill; “a master of the violin”; “one of the old masters”
+
+wordnet.princeton.edu/perl/webwn

@@ -1,29 +1,36 @@
 ---
+layout: post
 title: debase
 ---
 
-<p>debase</p>
+debase
 
-<blockquote>
-  <p>Dan Quayle, a serial self-debaser, also once got into the act, publicly chastising Candice Bergen&#8217;s fictional newscaster &#8220;Murphy Brown&#8221; for setting a bad example by glamorizing single motherhood.
-  <a href="http://news.imagethief.com/blogs/china/archive/2007/09/02/why-patriotism-wont-save-the-chinese-film-industry.aspx">http://news.imagethief.com/blogs/china/archive/...</a></p>
-</blockquote>
+>Dan Quayle, a serial self-debaser, also once got into the act, publicly chastising Candice Bergen’s fictional newscaster “Murphy Brown” for setting a bad example by glamorizing single motherhood.
 
-<p>self-debaser怎么翻译。连环自毁的人？：）请大家指教</p>
+  
 
-<p>debase
+[http://news.imagethief.com/blogs/china/archive/...](http://news.imagethief.com/blogs/china/archive/2007/09/02/why-patriotism-wont-save-the-chinese-film-industry.aspx)
+
+self-debaser怎么翻译。连环自毁的人？：）请大家指教
+
+debase
+
 + To reduce the amount of precious metal content in an issue of coins, thereby increasing the proportion of base metal contained.
-www.24carat.co.uk/numismaticterms.html</p>
 
-<ul>
-<li><p>To reduce the value of. Classically, a currency is debased if its value in terms of gold or other precious metal is reduced.
-www-personal.umich.edu/~alandear/glossary/d.html</p></li>
-<li><p>corrupt: corrupt morally or by intemperance or sensuality; &#8220;debauch the young people with wine and women&#8221;; &#8220;Socrates was accused of corrupting young men&#8221;; &#8220;Do school counselors subvert young children?&#8221;; &#8220;corrupt the morals&#8221;</p></li>
-<li>lower in value by increasing the base-metal content</li>
-<li>adulterate: corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones; &#8220;adulterate liquor&#8221;
-wordnet.princeton.edu/perl/webwn</li>
-</ul>
+www.24carat.co.uk/numismaticterms.html
 
-<p>debaser
+*To reduce the value of. Classically, a currency is debased if its value in terms of gold or other precious metal is reduced.
+
+www-personal.umich.edu/~alandear/glossary/d.html
+
+*corrupt: corrupt morally or by intemperance or sensuality; “debauch the young people with wine and women”; “Socrates was accused of corrupting young men”; “Do school counselors subvert young children?”; “corrupt the morals”
+
+*lower in value by increasing the base-metal content
+
+*adulterate: corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones; “adulterate liquor”
+
+wordnet.princeton.edu/perl/webwndebaser
+
 + a person who lowers the quality or character or value (as by adding cheaper metal to coins)
-wordnet.princeton.edu/perl/webwn</p>
+
+wordnet.princeton.edu/perl/webwn

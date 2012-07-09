@@ -9,7 +9,7 @@ title: 学习英语
   <ul id="recent_posts">
     {% for post in site.posts limit: 30 %}
       <li class="post">
-        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

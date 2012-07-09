@@ -1,14 +1,21 @@
 ---
-title: ! 'How can I export epiphany bookmarks to use them with firefox delicious IE
-  and Mozilla '
+layout: post
+title: How can I export epiphany bookmarks to use them with firefox delicious IE and
+  Mozilla
 ---
 
-<p><a href="http://www.gnome.org/projects/epiphany/documentation/faq.html">http://www.gnome.org/projects/epiphany/document...</a></p>
+[http://www.gnome.org/projects/epiphany/document...](http://www.gnome.org/projects/epiphany/documentation/faq.html)
 
-<blockquote>
-  <p>4.6 How can I export bookmarks to use them with Mozilla?</p>
+>4.6 How can I export bookmarks to use them with Mozilla?
+
   
-  <p>To export your bookmarks into the format used by Mozilla, you need to save this XSL stylesheet as ephy2moz.xsl, and issue the following command on a shell prompt:</p>
+
   
-  <p>xsltproc -o bookmarks.html ephy2moz.xsl ~/.gnome2/epiphany/bookmarks.rdf</p>
-</blockquote>
+
+To export your bookmarks into the format used by Mozilla, you need to save this XSL stylesheet as ephy2moz.xsl, and issue the following command on a shell prompt:
+
+  
+
+  
+
+xsltproc -o bookmarks.html ephy2moz.xsl ~/.gnome2/epiphany/bookmarks.rdf

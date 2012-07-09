@@ -1,21 +1,20 @@
 ---
+layout: post
 title: yonder是什么意思
 ---
 
-<p>yonder是什么意思</p>
+yonder是什么意思
 
-<blockquote>
-  <p>In open source terms, this may be as big of a deal as the gcc and egcs merger of yonder days. KHTML and Webkit are definitely coming of age.
-  <a href="http://slashdot.org/article.pl?sid=07/07/23/1953217&amp;from=rss">link</a></p>
-</blockquote>
+>In open source terms, this may be as big of a deal as the gcc and egcs merger of yonder days. KHTML and Webkit are definitely coming of age.
 
-<dl>
-<dt>yonder</dt>
-<dd>distant but within sight (`yon&#8217; is dialectal); &#8220;yonder valley&#8221;; &#8220;the hills yonder&#8221;; &#8220;what is yon place?&#8221;</dd>
+  
 
-<dd>at or in an indicated (usually distant) place (`yon&#8217; is archaic and dialectal); &#8220;the house yonder&#8221;; &#8220;scattered here and yon&#8221;- Calder Willingham</dd>
+[link](http://slashdot.org/article.pl?sid=07/07/23/1953217&from=rss)
 
-<dd>wordnet.princeton.edu/perl/webwn</dd>
-</dl>
+yonder
 
-<p>in yonder days在这里是“不远的过去”的意思？听着很罗嗦。你们会怎么翻译？</p>
+distant but within sight (`yon’ is dialectal); “yonder valley”; “the hills yonder”; “what is yon place?”
+
+at or in an indicated (usually distant) place (`yon’ is archaic and dialectal); “the house yonder”; “scattered here and yon”- Calder Willingham
+
+wordnet.princeton.edu/perl/webwnin yonder days在这里是“不远的过去”的意思？听着很罗嗦。你们会怎么翻译？

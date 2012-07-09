@@ -1,26 +1,34 @@
 ---
+layout: post
 title: anagram
 ---
 
-<p>问anagram的中文是什么？</p>
+问anagram的中文是什么？
 
-<p>重新组合字母</p>
+重新组合字母
 
-<p><a href="http://wordsmith.org/anagram/index.html">http://wordsmith.org/anagram/index.html</a></p>
+[http://wordsmith.org/anagram/index.html](http://wordsmith.org/anagram/index.html)
 
-<blockquote>
-  <p>Did you know that parliament is an anagram of partial men? Or, Clint Eastwood an anagram of Old West Action? Someone once said, &#8220;All the life&#8217;s wisdom can be found in anagrams. Anagrams never lie.&#8221; Here is your chance to discover the wisdom of anagrams.</p>
+>Did you know that parliament is an anagram of partial men? Or, Clint Eastwood an anagram of Old West Action? Someone once said, “All the life’s wisdom can be found in anagrams. Anagrams never lie.” Here is your chance to discover the wisdom of anagrams.
+
   
-  <p>noun</p>
 
-<pre><code> A word or phrase formed by rearranging the letters of another word or phrase.
-For example, Elvis to Lives. 
-</code></pre>
   
-  <p><a href="http://wordsmith.org/anagram/def.html">http://wordsmith.org/anagram/def.html</a></p>
-</blockquote>
 
-<p><a href="http://www.google.com/search?q=define%3Aanagram">http://www.google.com/search?q=define%3Aanagram</a></p>
+oun
 
-<p>anagram hall of fame <img src='http://www.rijiben.org/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
-<a href="http://wordsmith.org/anagram/hof.html">http://wordsmith.org/anagram/hof.html</a></p>
+A word or phrase formed by rearranging the letters of another word or phrase.
+
+For example, Elvis to Lives.
+
+  
+
+  
+
+[http://wordsmith.org/anagram/def.html](http://wordsmith.org/anagram/def.html)
+
+[http://www.google.com/search?q=define%3Aanagram](http://www.google.com/search?q=define%3Aanagram)
+
+anagram hall of fame 
+
+![:)](http://www.rijiben.org/smilies/icon_smile.gif)[http://wordsmith.org/anagram/hof.html](http://wordsmith.org/anagram/hof.html)

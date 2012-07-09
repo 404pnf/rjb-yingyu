@@ -1,22 +1,20 @@
 ---
-title: ! 'ukulele是什么乐器 '
+layout: post
+title: ukulele是什么乐器
 ---
 
-<p>ukulele是什么乐器？</p>
+ukulele是什么乐器？
 
-<blockquote>
-  <p>David Pescovitz: Wp-Content Uploads Dark Side Of The Uke San Francisco musicians The Tatamimats occasionally perform Pink Floyd&#8217;s Dark Side of the Moon in its entirety on ukulele. The next show will be this Friday, July 6, at San Francisco&#8217;s The Knockout.  <a href="http://www.boingboing.net/2007/07/03/dark_side_of_the_uke.html">source</a></p>
-</blockquote>
+>David Pescovitz: Wp-Content Uploads Dark Side Of The Uke San Francisco musicians The Tatamimats occasionally perform Pink Floyd’s Dark Side of the Moon in its entirety on ukulele. The next show will be this Friday, July 6, at San Francisco’s The Knockout.  
 
-<dl>
-<dt><a href="http://www.google.com/search?hl=en&amp;q=define%3Aukulele&amp;btnG=Google+Search">define: ukelele</a></dt>
-<dd>uke: a small guitar having four strings
-wordnet.princeton.edu/perl/webwn</dd>
+[source](http://www.boingboing.net/2007/07/03/dark_side_of_the_uke.html)
 
-<dd>
-<p>The ukulele (pronounced , or the Anglicised ), or uke, is a fretted string instrument which is, in its construction, essentially a smaller, four-stringed version of the guitar. In the early 20th century, the instrument&#8217;s name was often rendered as &#8220;ukelele&#8221;, a spelling stilll used in Great Britain. The Hawai&#8217;ian spelling &#8216;ukulele is also sometimes seen.
-en.wikipedia.org/wiki/Ukulele</p>
-</dd>
-</dl>
+[define: ukelele](http://www.google.com/search?hl=en&q=define%3Aukulele&btnG=Google+Search)
 
-<p>中文？anyone?</p>
+uke: a small guitar having four strings
+
+wordnet.princeton.edu/perl/webwn
+
+The ukulele (pronounced , or the Anglicised ), or uke, is a fretted string instrument which is, in its construction, essentially a smaller, four-stringed version of the guitar. In the early 20th century, the instrument’s name was often rendered as “ukelele”, a spelling stilll used in Great Britain. The Hawai’ian spelling ‘ukulele is also sometimes seen.
+
+en.wikipedia.org/wiki/Ukulele中文？anyone?

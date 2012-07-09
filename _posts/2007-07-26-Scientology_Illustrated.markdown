@@ -1,9 +1,14 @@
 ---
+layout: post
 title: Scientology Illustrated
 ---
 
-<p><a href="http://www.xenu.net/archive/scientology_illustrated/">Scientology Illustrated</a></p>
+[Scientology Illustrated](http://www.xenu.net/archive/scientology_illustrated/)
 
-<p>more at <a href="http://www.xenu.net/">http://www.xenu.net/</a></p>
+more at 
 
-<p>on there site, <a href="(<a href="http://www.xenu.net/copyright.html">http://www.xenu.net/copyright.html</a>)">this article</a> on scientology&#8217;s use of copyright to withhold info and critics is interesting</p>
+[http://www.xenu.net/](http://www.xenu.net/)
+
+on there site, 
+
+[http://www.xenu.net/copyright.html]((<a href=))">this article on scientology’s use of copyright to withhold info and critics is interesting

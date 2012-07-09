@@ -1,7 +1,8 @@
 ---
-title: ! 'ciao everybody '
+layout: post
+title: ciao everybody
 ---
 
-<p>ciao</p>
+ciao
 
-<p><img src="http://webdesignbook.net/wp-content/themes/v100/ciao_logo_width85.gif" alt="" /></p>
+![](http://webdesignbook.net/wp-content/themes/v100/ciao_logo_width85.gif)

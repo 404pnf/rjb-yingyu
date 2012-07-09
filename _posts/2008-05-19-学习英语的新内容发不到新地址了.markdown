@@ -1,7 +1,10 @@
 ---
+layout: post
 title: 学习英语的新内容发不到新地址了
 ---
 
-<p>由于参与人不多，<a href="http://pengyou.rijiben.org/taxonomy/term/5">新内容发到这里</a>了。</p>
+由于参与人不多，
 
-<p>直到有多个作者参与的时候，再回到这里。</p>
+[新内容发到这里](http://pengyou.rijiben.org/taxonomy/term/5)了。
+
+直到有多个作者参与的时候，再回到这里。

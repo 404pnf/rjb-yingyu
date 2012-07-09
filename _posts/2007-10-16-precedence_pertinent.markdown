@@ -1,31 +1,34 @@
 ---
+layout: post
 title: precedence pertinent
 ---
 
-<p>precedence; pertinent</p>
+precedence; pertinent
 
-<blockquote>
-  <p>Yesterday I was translating an article by a People’s University professor that called for Chinese to take precedence over English during the Olympics.  More than half-way through the translation, I realised that the article is too long for a blog post and no one will read it.  Instead, I will summarise the article briefly because I think it mentions some pertinent points.  The article appeared on page 31 in the Nanfang Zhoumo on August 16.
-  source: <a href="http://www.blognow.com.au/chinamachete/70200/">http://www.blognow.com.au/chinamachete/70200/</a></p>
-</blockquote>
+>Yesterday I was translating an article by a People’s University professor that called for Chinese to take precedence over English during the Olympics.  More than half-way through the translation, I realised that the article is too long for a blog post and no one will read it.  Instead, I will summarise the article briefly because I think it mentions some pertinent points.  The article appeared on page 31 in the Nanfang Zhoumo on August 16.
 
-<p>两个词我都不知道对应翻译？help?</p>
+  source: 
 
-<p>precedence</p>
+[http://www.blognow.com.au/chinamachete/70200/](http://www.blognow.com.au/chinamachete/70200/)
 
-<blockquote>
-  <p>status established in order of importance or urgency; &#8220;&#8230;its precedence as the world&#8217;s leading manufacturer of pharmaceuticals&#8221;; &#8220;national &#8230;
+两个词我都不知道对应翻译？help?
+
+precedence
+
+>status established in order of importance or urgency; “…its precedence as the world’s leading manufacturer of pharmaceuticals”; “national …
+
   priority: preceding in time
+
   precession: the act of preceding in time or order or rank (as in a ceremony)
-  wordnet.princeton.edu/perl/webwn</p>
-</blockquote>
 
-<p>pertinent</p>
+  wordnet.princeton.edu/perl/webwn
 
-<blockquote>
-  <p>having precise or logical relevance to the matter at hand; &#8220;a list of articles pertinent to the discussion&#8221;; &#8220;remarks that were to the point&#8221;
-  apposite: being of striking appropriateness and pertinence; &#8220;the successful copywriter is a master of apposite and evocative verbal images&#8221;; &#8220;an apt reply&#8221;
-  wordnet.princeton.edu/perl/webwn</p>
-</blockquote>
+pertinent
 
-<p>To summerize the article on the newspaper, the auther believes &#8220;Instead of concentrating on English, he believes that the Olympics present a great opportunity to popularise Chinese. &#8220;</p>
+>having precise or logical relevance to the matter at hand; “a list of articles pertinent to the discussion”; “remarks that were to the point”
+
+  apposite: being of striking appropriateness and pertinence; “the successful copywriter is a master of apposite and evocative verbal images”; “an apt reply”
+
+  wordnet.princeton.edu/perl/webwn
+
+To summerize the article on the newspaper, the auther believes “Instead of concentrating on English, he believes that the Olympics present a great opportunity to popularise Chinese. “

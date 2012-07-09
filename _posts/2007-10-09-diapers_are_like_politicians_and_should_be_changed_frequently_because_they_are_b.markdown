@@ -1,11 +1,15 @@
 ---
+layout: post
 title: diapers are like politicians and should be changed frequently because they
-  are both full…
+  are both full
 ---
 
-<blockquote>
-  <p>believe, like Robin Williams, that diapers are like politicians and should be changed frequently because they are both full…
-  via <a href="http://onemanbandwidth.com/wordpress/2007/07/25/china-seo-expert/">http://onemanbandwidth.com/wordpress/2007/07/25...</a></p>
-</blockquote>
+>believe, like Robin Williams, that diapers are like politicians and should be changed frequently because they are both full…
 
-<p>&#8230; of shit <img src='http://www.rijiben.org/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+  via 
+
+[http://onemanbandwidth.com/wordpress/2007/07/25...](http://onemanbandwidth.com/wordpress/2007/07/25/china-seo-expert/)
+
+… of shit 
+
+![:)](http://www.rijiben.org/smilies/icon_smile.gif)

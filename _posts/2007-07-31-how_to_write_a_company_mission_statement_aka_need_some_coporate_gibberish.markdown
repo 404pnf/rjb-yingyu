@@ -1,7 +1,12 @@
 ---
+layout: post
 title: how to write a company mission statement aka need some coporate gibberish
 ---
 
-<p>how to write a company mission statement, aka, need some <a href="http://www.andrewdavidson.com/gibberish/">coporate gibberish</a></p>
+how to write a company mission statement, aka, need some 
 
-<p>this is kinda old, but it&#8217;s to the point:  <a href="http://www.emptybottle.org/bullshit/">web 2.0 bullshit generator</a></p>
+[coporate gibberish](http://www.andrewdavidson.com/gibberish/)
+
+this is kinda old, but it’s to the point:  
+
+[web 2.0 bullshit generator](http://www.emptybottle.org/bullshit/)

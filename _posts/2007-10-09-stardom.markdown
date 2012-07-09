@@ -1,10 +1,12 @@
 ---
+layout: post
 title: stardom
 ---
 
-<blockquote>
-  <p>&#8216;Ol Dirty Bastard (aka Russell Jones) on <a href="http://thesmokinggun.com/archive/1115041odb11.html">celebrity</a>: &#8220;When you got the stardom, you got the ladies all around, you got all kinds of foolish things messing with your head.&#8221;</p>
-</blockquote>
+>‘Ol Dirty Bastard (aka Russell Jones) on 
 
-<p>the status of being acknowledged as a star; &#8220;stardom meant nothing to her&#8221;
-wordnet.princeton.edu/perl/webwn</p>
+[celebrity](http://thesmokinggun.com/archive/1115041odb11.html): “When you got the stardom, you got the ladies all around, you got all kinds of foolish things messing with your head.”
+
+the status of being acknowledged as a star; “stardom meant nothing to her”
+
+wordnet.princeton.edu/perl/webwn
